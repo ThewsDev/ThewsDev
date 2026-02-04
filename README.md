@@ -1,4 +1,4 @@
-<h1 align="center">Matthews Tancredo</h1>
+<h1 align="center">🧑‍💻 Matthews Tancredo</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="center">💻 Languages & Technologies</h3>
+<h2 align="center">💻 Languages & Technologies</h2>
 
 ###
 
