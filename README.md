@@ -5,11 +5,11 @@
 -->
 
 <p align="left">
-    <a href="https://steamcommunity.com/profiles/76561199624141662">
+    <a href="https://www.linkedin.com/in/matthews-tancredo">
         <img 
-            alt="Steam"
-            title="Steam"
-            src="https://img.shields.io/static/v1?message=steam&logo=steam&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
+            alt="LinkedIn"
+            title="LinkedIn"
+            src="https://img.shields.io/static/v1?message=linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
         />
     </a>
     <a href="https://x.com/thewsskt23">
