@@ -19,6 +19,13 @@
             src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge"
         />
     </a>
+    <a href="https://www.instagram.com/thewsskt23">
+        <img 
+            alt="Instagram"
+            title="Instagram"
+            src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"
+        />
+    </a>
     <a href="https://thewsdev.itch.io">
         <img 
             alt="Itch"
