@@ -5,9 +5,10 @@
 -->
 
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/matthews-tancredo/)
-[![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/thewsskt23)
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:matthewstancredo1@gmail.com)
+[![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/thewsskt23)
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/thewsskt23)
-[![Itch.io](https://img.shields.io/static/v1?message=Itch.io&logo=itch.io&label=&color=F52727&logoColor=white&labelColor=&style=for-the-badge)](https://thewsdev.itch.io)
+[![Itch.io](https://img.shields.io/static/v1?message=Itch.io&logo=itch.io&label=&color=FA5C5C&logoColor=white&labelColor=&style=for-the-badge)](https://thewsdev.itch.io)
 
 <!-- <p align="left">
     <a href="https://www.linkedin.com/in/matthews-tancredo">
