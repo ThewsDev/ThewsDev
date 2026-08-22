@@ -103,7 +103,7 @@
 
 <picture>
     <div align="left">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ThewsDev&show_icons=true&theme=tokyonight&text_color=eaeaea&icon_color=70a5fd&hide_border=false&include_all_commits=true" height=165em font-weight=bold/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThewsDev&show_icons=true&theme=tokyonight&text_color=eaeaea&icon_color=70a5fd&hide_border=false&include_all_commits=true" height=165em font-weight=bold/>
     <img width="10"/>
     <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=ThewsDev&layout=compact&theme=tokyonight&text_color=eaeaea&hide_border=false&locale=en&include_all_commits=true" height=165em font-weight=bold/>
     </div>
