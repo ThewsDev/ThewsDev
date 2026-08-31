@@ -104,6 +104,6 @@
 <picture>
     <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThewsDev&theme=github-compact"
     alt="Github Activity graph"/>-->
-    <img src="https://raw.githubusercontent.com/ThewsDev/ThewsDev/output/snake.svg" 
-    alt="GitHub Streak" />
+    <img src="https://raw.githubusercontent.com/ThewsDev/ThewsDev/output/acrade-contributions.svg" 
+    alt="GitHub Acrade" />
 </picture>
